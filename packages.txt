@@ -1,0 +1,26 @@
+# Essential tools
+neovim     # Modern Vim
+git        # Version control
+tmux       # Terminal multiplexer
+
+# Development
+build-essential
+python3-pip
+nodejs
+
+# System utilities
+# htop
+# rsync
+
+# Editing
+kdenlive
+gimp
+blender
+
+# Windows's
+wine
+bottles
+
+# Gamings
+steam
+dolphin-emu
