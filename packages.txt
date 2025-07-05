@@ -1,7 +1,7 @@
 # Essential tools
-neovim     # Modern Vim
-git        # Version control
-tmux       # Terminal multiplexer
+git
+neovim
+tmux
 
 # Development
 build-essential
@@ -17,9 +17,11 @@ kdenlive
 gimp
 blender
 
+# Media
+freetube
+
 # Windows's
 wine
-bottles
 
 # Gamings
 steam
